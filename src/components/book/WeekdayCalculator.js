@@ -44,7 +44,8 @@ const WeekdayCalculator = (props) => {
         Number of weekdays between the two dates in {country}: {weekdayCount}
       </Text>
       <Text style={{ textAlign: "center", color: "red" }}>
-        Total fine is: ₺{totalFine}
+        Total fine is: {country === "Turkey" ? "₺" : "$"}
+        {totalFine}
       </Text>
     </>
   );

@@ -4,5 +4,6 @@
 - Sonra seçilecek contact'ı seçin.
 - Sonra ülkeyi seçin, seçmezseniz, default Turkey olacaktır.
 - Due date ve Book Returned Date'i YYYY-MM-DD olarak yazın.
-- Sonuçları modal'da görmek için Calculate'e basın.
-  Not: Buton, tüm veriler girilmeden aktive olmayacaktır.
+- Sonuçları modal'da görmek için Calculate'e basın. Buton, tüm veriler girilmeden aktive olmayacaktır.
+
+Not: Fotoğraf çekme kısmını yetiştiremedim. Ekran görüntüleri "screenshots" adlı dosyanın içindedir.

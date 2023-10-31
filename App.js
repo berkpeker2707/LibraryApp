@@ -3,6 +3,7 @@ import { View, Text, Modal, Button, TouchableOpacity } from "react-native";
 import * as Contacts from "expo-contacts";
 import Contact from "./src/components/contact/Contact";
 import Book from "./src/components/book/Book";
+import CameraComponent from "./src/components/book/Camera";
 
 const App = () => {
   const [contacts, setContacts] = useState([]);
@@ -100,6 +101,7 @@ const App = () => {
         totalFine={totalFine}
         setTotalFine={setTotalFine}
       />
+      <CameraComponent />
       <View
         style={{
           alignItems: "center",

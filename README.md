@@ -1,4 +1,4 @@
-### Uygulama nasıl çalışır?
+# Uygulama nasıl çalışır?
 
 - Lütfen önce contact list'e ulaşması için izin verin.
 - Sonra seçilecek contact'ı seçin.
@@ -8,4 +8,4 @@
 
 Not: Fotoğraf çekme kısmını tam yetiştiremedim. Fotoğrafı çekiyor, fakat telefona kaydediyor. Ekran görüntüleri "screenshots" adlı dosyanın içindedir.
 
-- Veripark için yapıldı.
+### VeriPark için yapıldı.

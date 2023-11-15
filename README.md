@@ -7,3 +7,5 @@
 - Sonuçları modal'da görmek için Calculate'e basın. Buton, tüm veriler girilmeden aktive olmayacaktır.
 
 Not: Fotoğraf çekme kısmını tam yetiştiremedim. Fotoğrafı çekiyor, fakat telefona kaydediyor. Ekran görüntüleri "screenshots" adlı dosyanın içindedir.
+
+- Veripark için yapıldı.
